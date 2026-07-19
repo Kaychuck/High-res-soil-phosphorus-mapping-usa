@@ -53,4 +53,4 @@ This GitHub repository is intended to provide an overview of the project and dir
 
 
 Email: ionwuka95@gmail.com
-LinkedIn: https://www.linkedin.com/in/ikeonwuka
+LinkedIn: https://www.linkedin.com/in/ikechukwu-onwuka-ph-d-253402105/
